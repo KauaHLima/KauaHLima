@@ -1,4 +1,4 @@
-<h1 align="center">👋 Fala, eu sou o Kauã Henrique</h1>
+<h1 align="center"> Fala, eu sou o Kauã Henrique</h1>
 
 <p align="center">
 🏃‍♂️ Atleta Profissional • 💻 Desenvolvedor em evolução
