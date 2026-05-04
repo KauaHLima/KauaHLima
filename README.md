@@ -51,6 +51,4 @@
 
 ---
 
-## ⚡ Mentalidade
 
-> "A disciplina que me faz correr mais rápido é a mesma que me faz programar melhor."
