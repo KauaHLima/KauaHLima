@@ -1,58 +1,56 @@
-# 👋 Fala, eu sou o Kauã Henrique
+<h1 align="center">👋 Fala, eu sou o Kauã Henrique</h1>
 
-🏃‍♂️ Atleta profissional de atletismo   
-💻 Desenvolvedor em formação focado em JavaScript e Node.js  
-🚀 Disciplina do esporte aplicada na programação  
+<p align="center">
+🏃‍♂️ Atleta Profissional • 💻 Desenvolvedor em evolução
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-Sou atleta de alto rendimento e desenvolvedor em evolução.  
-Trago pro código a mesma mentalidade do esporte: consistência, foco e evolução diária.
-
-🎯 Objetivo: me tornar um desenvolvedor de alto nível enquanto sigo competindo no atletismo.
+💭 Atleta de alto rendimento aplicando disciplina no código  
+🏃‍♂️ Especialista em 1500m e 3000m com obstáculos  
+🚀 Evoluindo todos os dias em JavaScript e Node.js  
 
 ---
 
 ## 🚀 Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Git](https://img.shields.io/badge/Git-black)
-![GitHub](https://img.shields.io/badge/GitHub-gray)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,git,github" />
+</p>
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=KauaHLima&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaHLima&layout=compact&theme=radical"/>
+</p>
 
 ---
 
 ## 🏆 Destaques
 
-- 🏃‍♂️ Especialista em 1500m e 3000m com obstáculos  
-- 🧠 Foco em evolução contínua (no esporte e na tecnologia)  
-- 🚀 Participação em projetos e hackathons de tecnologia  
+- 🏃‍♂️ Atleta profissional de atletismo  
+- 🧠 Mentalidade de evolução contínua  
+- 🚀 Participação em projetos e hackathons  
 
 ---
 
 ## 💻 Projetos
 
-🔗 Em construção... (em breve projetos reais aqui)
+🚧 Em construção...  
 
+---
 
 ## 📫 Contato
 
-📧 Email: kauahloliveira15@gmail.com   
+📧 **kauahloliveira15@gmail.com**
 
 ---
 
-## ⚡ Frase que me define
+## ⚡ Mentalidade
 
 > "A disciplina que me faz correr mais rápido é a mesma que me faz programar melhor."
-
----
